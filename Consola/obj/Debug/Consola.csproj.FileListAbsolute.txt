@@ -1,0 +1,8 @@
+C:\Users\Laboratorio_02\source\repos\Ejercicio_Videojuego\Consola\bin\Debug\Consola.exe.config
+C:\Users\Laboratorio_02\source\repos\Ejercicio_Videojuego\Consola\bin\Debug\Consola.exe
+C:\Users\Laboratorio_02\source\repos\Ejercicio_Videojuego\Consola\bin\Debug\Consola.pdb
+C:\Users\Laboratorio_02\source\repos\Ejercicio_Videojuego\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\Laboratorio_02\source\repos\Ejercicio_Videojuego\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio_02\source\repos\Ejercicio_Videojuego\Consola\obj\Debug\Consola.exe
+C:\Users\Laboratorio_02\source\repos\Ejercicio_Videojuego\Consola\obj\Debug\Consola.pdb
+C:\Users\Laboratorio_02\source\repos\Ejercicio_Videojuego\Consola\obj\Debug\Consola.exe.config
