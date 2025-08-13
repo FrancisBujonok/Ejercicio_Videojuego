@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using RPG;
 
 namespace Clases
 {
@@ -23,11 +22,10 @@ namespace Clases
             this.Ataque = ataque;
             this.Defensa = defensa;
         }
-        public int Atacar (Personajes enemigo) 
+        public void RegistrarPersonaje()
         {
-            int danio = this.Ataque - enemigo.Defensa;
-            Console.WriteLine($"{this.Nombre} ataca a {enemigo.Nombre} y causa {danio} puntos de daño.");
-            return danio;
+            Console.WriteLine($"Personaje registrado: {this.Nombre}, Nivel: {this.Nivel}, Vida: {this.Vida}, Ataque: {this.Ataque}, Defensa: {this.Defensa}");
+            this.Personaje.add
         }
         public int RecibirDanio()
         { 

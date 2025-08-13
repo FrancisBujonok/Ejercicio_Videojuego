@@ -8,6 +8,10 @@ namespace Clases
 {
     public class Gestor_Personaje
     {
-
+        public Gestor_Personaje()
+        {
+            this.Personaje = new List<Personajes>();
+            this.Combate = new List<Combate>();
+        }   
     }
 }
