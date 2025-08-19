@@ -22,10 +22,14 @@ namespace Clases
             this.Ataque = ataque;
             this.Defensa = defensa;
         }
+        List<Personajes> personajes = new List<Personajes>();
         public void RegistrarPersonaje()
         {
             Console.WriteLine($"Personaje registrado: {this.Nombre}, Nivel: {this.Nivel}, Vida: {this.Vida}, Ataque: {this.Ataque}, Defensa: {this.Defensa}");
-            this.Personaje.add
+            this.personajes.Add(this);
+            Console.WriteLine("Personaje registrado exitosamente.");
+            Console.WriteLine("\nPresione cualquier tecla para continuar...");
+            Console.ReadKey();
         }
         public int RecibirDanio()
         { 

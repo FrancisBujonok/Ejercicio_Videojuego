@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\clases\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|solutionrelative:clases\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB52A0A8-5C98-4C29-A6C0-62716362EFEC}|Consola\\Consola.csproj|C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB52A0A8-5C98-4C29-A6C0-62716362EFEC}|Consola\\Consola.csproj|solutionrelative:consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|c:\\users\\laboratorio_02\\documents\\github\\ejercicio_videojuego\\clases\\personajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|solutionrelative:clases\\personajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|c:\\users\\laboratorio_02\\documents\\github\\ejercicio_videojuego\\clases\\gestor_personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\clases\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|solutionrelative:clases\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\clases\\gestor_personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|solutionrelative:clases\\gestor_personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB52A0A8-5C98-4C29-A6C0-62716362EFEC}|Consola\\Consola.csproj|c:\\users\\laboratorio_02\\documents\\github\\ejercicio_videojuego\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB52A0A8-5C98-4C29-A6C0-62716362EFEC}|Consola\\Consola.csproj|solutionrelative:consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|c:\\users\\laboratorio_02\\documents\\github\\ejercicio_videojuego\\clases\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\clases\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|solutionrelative:clases\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|c:\\users\\laboratorio_02\\documents\\github\\ejercicio_videojuego\\clases\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\clases\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|solutionrelative:clases\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|c:\\users\\laboratorio_02\\documents\\github\\ejercicio_videojuego\\clases\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|solutionrelative:clases\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|c:\\users\\laboratorio_02\\documents\\github\\ejercicio_videojuego\\clases\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{558B6BE5-0AFE-4C49-BAEC-4124A92BCD40}|Clases\\Clases.csproj|solutionrelative:clases\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\Consola\\Program.cs",
               "RelativeDocumentMoniker": "Consola\\Program.cs",
               "ToolTip": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\Consola\\Program.cs",
               "RelativeToolTip": "Consola\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T21:32:53.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Combate.cs",
               "DocumentMoniker": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\Clases\\Combate.cs",
               "RelativeDocumentMoniker": "Clases\\Combate.cs",
               "ToolTip": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\Clases\\Combate.cs",
               "RelativeToolTip": "Clases\\Combate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T21:32:17.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Personajes.cs",
               "DocumentMoniker": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\Clases\\Personajes.cs",
               "RelativeDocumentMoniker": "Clases\\Personajes.cs",
               "ToolTip": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\Clases\\Personajes.cs",
               "RelativeToolTip": "Clases\\Personajes.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA8wBsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T21:33:10.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Gestor_Personaje.cs",
               "DocumentMoniker": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\Clases\\Gestor_Personaje.cs",
               "RelativeDocumentMoniker": "Clases\\Gestor_Personaje.cs",
@@ -89,12 +89,11 @@
               "RelativeToolTip": "Clases\\Gestor_Personaje.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T21:32:03.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T21:32:03.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Guerrero.cs",
               "DocumentMoniker": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\Clases\\Guerrero.cs",
               "RelativeDocumentMoniker": "Clases\\Guerrero.cs",
@@ -102,12 +101,11 @@
               "RelativeToolTip": "Clases\\Guerrero.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wBIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T21:32:17.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T21:32:17.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Arquero.cs",
               "DocumentMoniker": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\Clases\\Arquero.cs",
               "RelativeDocumentMoniker": "Clases\\Arquero.cs",
@@ -115,12 +113,11 @@
               "RelativeToolTip": "Clases\\Arquero.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwBMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T21:32:04.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T21:32:04.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Mago.cs",
               "DocumentMoniker": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Ejercicio_Videojuego\\Clases\\Mago.cs",
               "RelativeDocumentMoniker": "Clases\\Mago.cs",

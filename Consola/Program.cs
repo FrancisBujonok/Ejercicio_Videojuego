@@ -38,7 +38,7 @@ namespace Consola
                         Console.WriteLine("3. Arquero");
                         Console.Write("Elige una clase (1-3): ");
                         int clase = int.Parse(Console.ReadLine());
-
+                       
                         break;
 
                     case 2:
