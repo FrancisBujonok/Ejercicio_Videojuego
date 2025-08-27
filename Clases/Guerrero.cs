@@ -8,13 +8,8 @@ namespace Clases
 {
     public class Guerrero : Personajes
     {
-        public Guerrero(string nombre, int nivel)
+        public Guerrero(string nombre, int nivel) : base(nombre, nivel, 150, 30, 15)
         {
-            this.Nombre = nombre;
-            this.Nivel = nivel;
-            this.Vida = 150;
-            this.Ataque = 30;
-            this.Defensa = 15;
         }
         public int Atacar(Personajes enemigo)
         {

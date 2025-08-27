@@ -8,13 +8,8 @@ namespace Clases
 {
     public class Mago : Personajes
     {
-        public Mago(string nombre, int nivel) 
+        public Mago(string nombre, int nivel) :base(nombre, nivel, 100, 50, 5)
         { 
-            this.Nombre = nombre;
-            this.Nivel = nivel;
-            this.Vida = 100;
-            this.Ataque = 50;
-            this.Defensa = 5;
         }
         public int Atacar(Personajes enemigo)
         {

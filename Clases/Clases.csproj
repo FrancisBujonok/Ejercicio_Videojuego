@@ -49,11 +49,5 @@
     <Compile Include="Personajes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Consola\Consola.csproj">
-      <Project>{ab52a0a8-5c98-4c29-a6c0-62716362efec}</Project>
-      <Name>Consola</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

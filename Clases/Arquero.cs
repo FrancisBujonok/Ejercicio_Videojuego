@@ -8,13 +8,8 @@ namespace Clases
 {
     public class Arquero : Personajes
     {
-        public Arquero(string nombre, int nivel)
+        public Arquero(string nombre, int nivel) : base(nombre, nivel, 120, 25, 10)
         {
-            this.Nombre = nombre;
-            this.Nivel = nivel;
-            this.Vida = 120;
-            this.Ataque = 25;
-            this.Defensa = 10;
         }
         private Random Random = new Random();
         public int Atacar(Personajes enemigo)

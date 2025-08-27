@@ -1,0 +1,6 @@
+C:\Users\Laboratorio_02\Documents\GitHub\Ejercicio_Videojuego\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\Laboratorio_02\Documents\GitHub\Ejercicio_Videojuego\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio_02\Documents\GitHub\Ejercicio_Videojuego\Clases\bin\Debug\Clases.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Ejercicio_Videojuego\Clases\bin\Debug\Clases.pdb
+C:\Users\Laboratorio_02\Documents\GitHub\Ejercicio_Videojuego\Clases\obj\Debug\Clases.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Ejercicio_Videojuego\Clases\obj\Debug\Clases.pdb

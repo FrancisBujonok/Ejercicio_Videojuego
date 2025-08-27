@@ -23,19 +23,18 @@ namespace Clases
             this.Defensa = defensa;
         }
         List<Personajes> personajes = new List<Personajes>();
-        public void RegistrarPersonaje()
-        {
-            Console.WriteLine($"Personaje registrado: {this.Nombre}, Nivel: {this.Nivel}, Vida: {this.Vida}, Ataque: {this.Ataque}, Defensa: {this.Defensa}");
-            this.personajes.Add(this);
-            Console.WriteLine("Personaje registrado exitosamente.");
-            Console.WriteLine("\nPresione cualquier tecla para continuar...");
-            Console.ReadKey();
-        }
+        
         public int RecibirDanio()
-        { 
+        {
             int danioRecibido = this.Vida - this.Defensa;
             Console.WriteLine($"{this.Nombre} recibe {danioRecibido} puntos de daño.");
             return danioRecibido;
+        } 
+        public int Atacar(Personajes enemigo)
+        {
+            int danio = this.Ataque - enemigo.Defensa;
+            Console.WriteLine($"{this.Nombre} ataca a {enemigo.Nombre} y causa {danio} puntos de daño.");
+            return danio;
         }
     }
 }
